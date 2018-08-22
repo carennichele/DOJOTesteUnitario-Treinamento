@@ -6,4 +6,4 @@ Contém 3 classes
 + InfracaoException
 + RegistraDAO
 
-![Classes](Classes.png)  
+![classes](./classes.png)  
